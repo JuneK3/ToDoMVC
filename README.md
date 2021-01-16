@@ -1,1 +1,1 @@
-# ToDoMVC
+# Vanilla Land
